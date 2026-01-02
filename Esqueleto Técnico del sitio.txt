@@ -1,0 +1,23 @@
+ Esqueleto técnico del sitio (estructura base)
+/
+├── Inicio
+│   ├── Imagen destacada o banner
+│   └── Frase de bienvenida + botón “Ver productos”
+├── Sobre mí
+│   ├── Historia personal
+│   └── Valores artesanales y culturales
+├── Portafolio
+│   ├── Llaveros
+│   ├── Peluches
+│   └── Ediciones especiales
+├── Proceso Artesanal
+│   └── Paso a paso con fotos o texto
+├── Catálogo/Tienda
+│   └── Productos con precios y contacto
+├── Testimonios
+│   └── Opiniones de clientes
+├── Blog
+│   └── Entradas con historias, novedades, técnicas
+└── Contacto
+    ├── Formulario
+    └── WhatsApp, redes, email
